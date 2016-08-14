@@ -1,5 +1,8 @@
 {
   "name": "juk3-testapp",
   "version": "0.0.2-beta.3",
-  "main": "index"
+  "main": "index",
+  "dependencies": {
+    "steal": "beta"
+  }
 }
